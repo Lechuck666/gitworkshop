@@ -24,16 +24,4 @@ SAMI: Usted no puede proferir esas palabras, usted no puede decir semejante barb
 MAURI: Nos conocemos, nos conocemos mucho
 SAMI: USTED DEBE ARREPENTIRSE DE LO QUE DIJO!
 
-MAURI: No voy a arrepentirme!
-SAMI: Debe mostrar arrepentimiento, yo no realize tales acciones!
-
-** SAMI entra en un estado violento
-
-SAMI: Como te atreves, maldito semita, 
-MAURI: No, nooo, detente, nooooo
-
-** Ambos propician golpes de puño en lo que sera una de las epicas batallas del siglo XXI
-
-** Entra camarografo y patea a un indefenso Mauri
-
-
+MAURI: OK
